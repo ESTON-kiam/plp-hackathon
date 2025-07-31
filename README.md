@@ -94,6 +94,7 @@ portfolio/
 - Functional contact form using FormSubmit
 - Location and university details
 - Email and phone contact options
+-one can also reach out to me using the whatsapp by just clicking the whatsapp icon
 
 ## 📋 Contact Form Configuration
 
