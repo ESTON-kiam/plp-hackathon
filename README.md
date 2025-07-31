@@ -3,7 +3,12 @@
 A modern, responsive personal portfolio website showcasing my skills, experience, and projects as a Software Engineering student at The Co-operative University of Kenya.
 
 
-[![Live Demo](https://img.shields.io/badge/View%20Portfolio-Live-green?style=for-the-badge&logo=github)](https://estonkiama.github.io/portfolio)
+## 🚀 Live Demo
+
+View the deployed site here 👉  
+🔗 **[https://estonkiama.netlify.app](https://estonkiama.netlify.app)**
+
+
 
 
 ## 🌟 Project Overview
